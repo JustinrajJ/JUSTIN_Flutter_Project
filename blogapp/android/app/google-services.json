@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565790117632",
+    "project_id": "otpandfirestore",
+    "storage_bucket": "otpandfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565790117632:android:daedb1a46e33353255ede5",
+        "android_client_info": {
+          "package_name": "com.example.blogapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pZi2lYfOyn4FixQQv45ksF6wsBOrE68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
